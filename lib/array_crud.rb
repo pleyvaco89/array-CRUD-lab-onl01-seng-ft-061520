@@ -27,7 +27,8 @@ wow_faces = card_faces.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+card_faces = ["spades", "clovers", "hearts", "diamonds", "am"]
+card_faces[4]
 end
 
 def retrieve_first_element_from_array(array)
