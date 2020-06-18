@@ -6,10 +6,7 @@ def create_an_array
 card_faces = ["spades", "clovers", "hearts", "diamonds"]
 end
 
-def add_element_to_end_of_array
-card_faces = ["spades", "clovers", "hearts", "diamonds"]
-
-card_faces << "jokers"
+def add_element_to_end_of_array(array, element)
 
 end
 
