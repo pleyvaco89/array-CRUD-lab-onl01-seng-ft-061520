@@ -17,7 +17,8 @@ card_faces.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-
+card_faces = ["spades", "clovers", "hearts", "diamonds"]
+arrays!_faces = card_faces.pop
 end
 
 def remove_element_from_start_of_array(array)
