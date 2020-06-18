@@ -22,7 +22,8 @@ arrays_faces = card_faces.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+card_faces = ["wow", "spades", "clovers", "hearts", "diamonds", "arrays!"]
+wow_faces = card_faces.shift
 end
 
 def retrieve_element_from_index(array, index_number)
