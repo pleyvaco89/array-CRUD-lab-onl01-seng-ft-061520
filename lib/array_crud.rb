@@ -32,7 +32,8 @@ card_faces[4]
 end
 
 def retrieve_first_element_from_array(array)
-
+card_faces = ["wow", "spades", "clovers", "hearts", "diamonds", "am"]
+card_faces[0]
 end
 
 def retrieve_last_element_from_array(array)
